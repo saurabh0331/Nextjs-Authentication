@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+<h1>
+  Description
+</h1>
+<p>This project demonstrates the implementation of authentication features using Next.js. It covers user registration, login, and protected routes using a variety of authentication methods, providing a solid foundation for building secure web applications.</p>
 ## Getting Started
 
 First, run the development server:
